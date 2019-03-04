@@ -88,6 +88,16 @@ If you'd like to preview the theme locally (for example, in the process of propo
 4. Run `bundle exec jekyll serve` to start the preview server
 5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
 
+### Installing on Ubuntu (added by Matthias M., tested for 18.04)
+
+* `sudo apt install ruby ruby-dev zlib1g-dev`
+* `export GEM_HOME=$HOME/gems
+   export PATH=$HOME/gems/bin:$PATH`
+   (add to your .bashrc for next time)
+* sudo gem update --system
+* Run `script/bootstrap` to install the necessary dependencies
+* `bundle exec jekyll serve --livereload` to serve the website.
+
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
