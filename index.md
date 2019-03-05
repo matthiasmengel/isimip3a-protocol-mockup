@@ -83,11 +83,7 @@ The different historical simulations will allow a systematic quantification of t
 comparison to previous studies using either of these datasets; and provide an extensive data base for model evaluation and impact assessment, in
 particular with regard to the focus topic (e.g. a certain climatic extreme event could be better reproduced in one data set than in the other).
 Note that one important criterion for the selection of climate forcing datasets was their temporal extent. Biomes models in particular need long
-spin-up, therefore it is crucial that the datasets cover a substantial extent of time before the start of the reporting period. Also, note that the
-GSWP3 (Global Soil Wetness Project 3) data set was only recently developed and a description paper is not yet available. This dataset is based on
-dynamical downscaling and thereby promises rather good quality in particular with regard to the resolution of the variability. A short description of
-the main characteristics of this dataset will be distributed by email and is also available upon request. Further details on the global dynamical
-downscaling method are given in ref (Yoshimura & Kanamitsu, 2008, 2013).
+spin-up, therefore it is crucial that the datasets cover a substantial extent of time before the start of the reporting period. Also, note that the GSWP3 (Global Soil Wetness Project 3) data set was only recently developed and a description paper is not yet available. This dataset is based on dynamical downscaling and thereby promises rather good quality in particular with regard to the resolution of the variability. A short description of the main characteristics of this dataset will be distributed by email and is also available upon request. Further details on the global dynamical downscaling method are given in ref (Yoshimura & Kanamitsu, 2008, 2013).
 
 <div class="datatable-begin"></div>
 
