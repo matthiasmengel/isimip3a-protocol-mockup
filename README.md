@@ -9,7 +9,7 @@ We plan a webprotocol that features:
 * programmed tables that are consistent by design  
 * easy editing via the browser or offline
 
-Here is one proposition of such webprotocol, using github's built-in rendering feature.
+Here is one proposition of such webprotocol, using github's built-in rendering feature. You can edit in markdown in several ways. Once online on github, your edits will be rendered and become visible via [github.io](https://matthiasmengel.github.io/isimip3a-protocol-mockup/).
 
 ## Quickest start
 
